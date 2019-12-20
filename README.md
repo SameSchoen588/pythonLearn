@@ -1,4 +1,4 @@
-# pythonLearn
+# Create Blackjack using Python
 play a blackjack application written in python
 
 If you are new to python like I was and you want to know what you need to access this code for your own you have some options.
